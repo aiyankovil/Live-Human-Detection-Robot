@@ -8,7 +8,7 @@ The robot is a four wheeled bot with onboard sensors and camera.The sensors are 
 
 <h3>Want to build your own LHDR?</h3>
 
-We believe in open source and our entire source code can be found here, we have also tried to incorporate hardware details as much as possible. We would love to see you build a better LHDR or improve upon our project.
+We would love to see you build a better LHDR or improve upon our project. All our source code is available in this github repo.
 
 <h3>I can do better.</h3>
 
