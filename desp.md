@@ -6,7 +6,7 @@ The non-contact temperature sensors fixed to the bot gives a reading of the ambi
 
 The sensor will provide us with temperature readings giving us a rough plane of possible matches, the camera is then focused to this place and employs image processing algorithms to confirm it is indeed a human. The whole process may happen autonomously or can be manually controlled. 
 
-Manual control : in this case the operator can manually drive the robot using an app on his phone, and the combined camera and sensor reading will be displayed on his screen. In the autonomous mode the robot scans the room using pre-programmed algorithms and alerts the operator in case of a positive id (or maybe asks the operator to confirm a positive ID).
+Manual control : in this case the operator can manually drive the robot using a phone or a tablet, and the combined camera and sensor reading will be displayed on screen. In the autonomous mode the robot scans the room using pre-programmed algorithms and alerts the operator in case of a positive id (or maybe asks the operator to confirm a positive ID).
 
 
 <br/><br/>
