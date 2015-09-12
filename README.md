@@ -8,6 +8,6 @@ The robot is a four wheeled bot with onboard sensors and camera.The sensors are 
 <h3>Want to build your own LHDR?</h3>
 
 Fork this repo and build your own version of this bot.
-We'd love to see your ideas to improve this project.
+We'd love to see you improve this project.
 
 
