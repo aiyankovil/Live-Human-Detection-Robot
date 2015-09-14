@@ -1,5 +1,16 @@
 #raspi update cheat sheet
 
+--developer tools
 sudo apt-get install build-essential cmake pkg-config
 
+--image i/o packs
+sudo apt-get install libjpeg8-dev libtiff4-dev libjasper-dev libpng12-dev
 
+--GTK development library
+sudo apt-get install libgtk2.0-dev
+
+--Video i/o packages
+sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
+
+--Libraries for opencv
+udo apt-get install libatlas-base-dev gfortran
