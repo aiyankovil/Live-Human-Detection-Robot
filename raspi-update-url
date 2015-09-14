@@ -13,4 +13,21 @@ sudo apt-get install libgtk2.0-dev
 sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
 
 --Libraries for opencv
-udo apt-get install libatlas-base-dev gfortran
+sudo apt-get install libatlas-base-dev gfortran
+
+--pip install
+wget https://bootstrap.pypa.io/get-pip.py
+$ sudo python get-pip.py
+
+--virtualenv and virtualenv wrapper
+sudo pip install virtualenv virtualenvwrapper
+$ sudo rm -rf ~/.cache/pip
+
+--CV virtual environment
+mkvirtualenv cv
+
+--numpy install
+pip install numpy
+
+
+reference : http://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/
