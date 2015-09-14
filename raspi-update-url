@@ -1,0 +1,5 @@
+#raspi update cheat sheet
+
+sudo apt-get install build-essential cmake pkg-config
+
+
