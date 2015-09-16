@@ -26,8 +26,14 @@ $ sudo rm -rf ~/.cache/pip
 --CV virtual environment
 mkvirtualenv cv
 
+--motion web streamer
+sudo apt-get install motion
+
+--GUC viewer
+sudo apt-get install gucview
+
 --numpy install
 pip install numpy
 
 
-reference : http://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/
+References : http://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/
