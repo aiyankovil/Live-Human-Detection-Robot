@@ -1,6 +1,7 @@
 #test code for the mlx906124 temp sensor
 #simply tests the sensor for sample values and calibration.
-#uses code from the adafruit library at 
+#uses code from the adafruit library at https://github.com/adafruit/Adafruit-MLX90614-Library
+#!--ensure libraries are present befoer running test code
 
 #include <Wire.h>
 #include <Adafruit_MLX90614.h>
